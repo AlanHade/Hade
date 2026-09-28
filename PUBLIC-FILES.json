@@ -1,0 +1,117 @@
+{
+  "schema": "hade-public-distribution/1",
+  "version": "0.1.0-preview.4",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4194,
+      "sha256": "c1f1901a23c57cdce90f85fd5858e1283059b1800c72aeb6e77f9e1810d885fa"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1091,
+      "sha256": "f6fb00343d37c8d79eb7f2f6641908509b9b48e0c86539825c976a8f68bb7944"
+    },
+    {
+      "path": "SOURCE-REVIEW.md",
+      "bytes": 2398,
+      "sha256": "a3b8a21f8e3582890594fedd65d8438cd92f99a4761fbd265a9264bf9b48ac9c"
+    },
+    {
+      "path": "EVIDENCE.md",
+      "bytes": 7857,
+      "sha256": "c9c7febd7e154e54aaddfb922eb64c782929f7fdf82d203e942efbcd5eac43e6"
+    },
+    {
+      "path": "bundles/0.1.0-preview.4/CORE.md",
+      "bytes": 12094,
+      "sha256": "161d9a2d8c4b8ec65d9fdd0f6e75c26ecec1a3a5ce74d6f290f4b523dab5428c"
+    },
+    {
+      "path": "bundles/0.1.0-preview.4/HOST-CODEX.md",
+      "bytes": 2157,
+      "sha256": "49413e40a0fde558a88a5949222217534384185efbb55915eb2305b8127688ab"
+    },
+    {
+      "path": "bundles/0.1.0-preview.4/RECIPIENT.example.md",
+      "bytes": 1099,
+      "sha256": "09cb14f71ad82ddd91fadba12db520e3ff82d1b47637c33419d6090ed33aeab4"
+    },
+    {
+      "path": "bundles/0.1.0-preview.4/release.json",
+      "bytes": 358,
+      "sha256": "3ae5c047c8bf9431e54ab538ea9e77d3ac452f69a56111b32330bc22993efc8e"
+    },
+    {
+      "path": "install/installer.mjs",
+      "bytes": 18197,
+      "sha256": "1fd8ba3356fd14355470d305896be98a51dd8f19dbd32a0621c9d2a7c877c95f"
+    },
+    {
+      "path": "install/cli.mjs",
+      "bytes": 1782,
+      "sha256": "4190c5aa779dd4c04272d855a6e3508cf32e43fbf136151d8ceaaf48bab5210b"
+    },
+    {
+      "path": "install/installer.test.mjs",
+      "bytes": 18329,
+      "sha256": "e48f0df9d0fee496c79da2a84a1e6d2d4d4ef89ab670ff57fbd91a48ad4d1f96"
+    },
+    {
+      "path": "install/README.md",
+      "bytes": 9817,
+      "sha256": "ae75f23d725d22e2aca4737379014a53d84ffa9890b56d8e9174a38452f34ecb"
+    },
+    {
+      "path": "install/SOURCE-REVIEW.md",
+      "bytes": 2146,
+      "sha256": "26233280284360db923a092d8c3ac21590dfb4a9d7c2aefcec0503d5358154ad"
+    },
+    {
+      "path": "install/LICENSE",
+      "bytes": 1091,
+      "sha256": "f6fb00343d37c8d79eb7f2f6641908509b9b48e0c86539825c976a8f68bb7944"
+    },
+    {
+      "path": "feedback/feedback.mjs",
+      "bytes": 29979,
+      "sha256": "115780302988fecbf440670c2a3e59c4f03747e2cc5c5fa476a17daa6a30f503"
+    },
+    {
+      "path": "feedback/cli.mjs",
+      "bytes": 2417,
+      "sha256": "cf057a566860c5381193a51c3f57a00aefbbaa24b9897545c33f4cc454c63d48"
+    },
+    {
+      "path": "feedback/synthetic.mjs",
+      "bytes": 4002,
+      "sha256": "96a1f31502d6a19a3e3199e9f26eb9858ed7b8b06bda684df398bdc0f5961ba3"
+    },
+    {
+      "path": "feedback/demo.mjs",
+      "bytes": 4451,
+      "sha256": "028342a6c99c0135afecab62bdc2d2524dd672d0786ea85fa7e3f7a64d3e5598"
+    },
+    {
+      "path": "feedback/feedback.test.mjs",
+      "bytes": 23456,
+      "sha256": "285487c6f9b870a9499c1542a98a2d030cfc96e02ea4474a17de590674593174"
+    },
+    {
+      "path": "feedback/README.md",
+      "bytes": 10116,
+      "sha256": "318b5a00259fbb03fb70659df00ac9f56ce38a39020887c99afa4c83fa67619d"
+    },
+    {
+      "path": "feedback/SOURCE-REVIEW.md",
+      "bytes": 2360,
+      "sha256": "5ade465f9715b9521007fca0b18199ee8ad8e14eb61fbfb8c52eb84fd6168ddf"
+    },
+    {
+      "path": "feedback/LICENSE",
+      "bytes": 1074,
+      "sha256": "8d1ef245ef8458f7fd7096b70e8bb1824c7027ed9c63bcf000d6e5c15036bf73"
+    }
+  ],
+  "note": "SHA-256 binds content; it is not a signature, behavioral guarantee, or copyright verification."
+}

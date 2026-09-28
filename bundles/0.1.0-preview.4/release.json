@@ -1,0 +1,9 @@
+{
+  "schema": "hade-public-release/v1",
+  "version": "0.1.0-preview.4",
+  "files": {
+    "CORE.md": "161d9a2d8c4b8ec65d9fdd0f6e75c26ecec1a3a5ce74d6f290f4b523dab5428c",
+    "HOST-CODEX.md": "49413e40a0fde558a88a5949222217534384185efbb55915eb2305b8127688ab",
+    "RECIPIENT.example.md": "09cb14f71ad82ddd91fadba12db520e3ff82d1b47637c33419d6090ed33aeab4"
+  }
+}
